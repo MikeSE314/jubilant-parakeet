@@ -1,4 +1,3 @@
-...or create a new repository on the command line
 
 ```
 echo "# jubilant-parakeet" >> README.md
